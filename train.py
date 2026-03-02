@@ -31,3 +31,4 @@ for epoch in range(3):
 # 4. Save the trained weights
 torch.save(model.state_dict(), "lenet5_weights.pth")
 print("Training Complete. Weights saved to lenet5_weights.pth")
+
