@@ -12,3 +12,7 @@ This project is a from-scratch implementation of the classic **LeNet-5** archite
 1. Install dependencies: `pip install -r requirements.txt`
 
 2. Run training: `python train.py`
+3. <img width="416" height="435" alt="image" src="https://github.com/user-attachments/assets/b2c82dd8-ed2b-46bd-a4bd-6c8aee723dd1" />
+<img width="416" height="435" alt="image" src="https://github.com/user-attachments/assets/b2c82dd8-ed2b-46bd-a4bd-6c8aee723dd1" />
+
+
